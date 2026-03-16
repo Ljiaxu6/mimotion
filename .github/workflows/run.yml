@@ -1,3 +1,5 @@
+permissions:
+  contents: write
 name: 刷步数
 
 on:
